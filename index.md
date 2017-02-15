@@ -1,6 +1,7 @@
 # Projects
 
-[Xperience Romania](https://angelxaces.github.io/Experience-Romania/) [Mrs. Montcomery's Cheshire CatHouse](https://angelxaces.github.io/The-Chesire-CatHouse/) 
+-[Xperience Romania](https://angelxaces.github.io/Experience-Romania/)
+-[Mrs. Montcomery's Cheshire CatHouse](https://angelxaces.github.io/The-Chesire-CatHouse/) 
 
 
 ## Welcome to GitHub Pages
